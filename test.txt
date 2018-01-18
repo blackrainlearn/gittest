@@ -6,3 +6,4 @@ creating a new branch is quick AND simple.
 master merge test
 dev add new line
 dev new line2
+dev new line3
